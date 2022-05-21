@@ -16,8 +16,6 @@ This implements training of popular model architectures, such as ResNet, AlexNet
 - Note: the `requirements.txt` in this repository is not the same as the official requirements. If something goes wrong, please use the official requirements.  
 - Download the ImageNet dataset from http://www.image-net.org/
     - Then, move validation images to labeled subfolders, using [the following shell script](https://raw.githubusercontent.com/soumith/imagenetloader.torch/master/valprep.sh)
-
-## ClonalNet
 ## Training
 
 To train our network, run `clonalnet_main.py` with the desired model architecture and the path to the ImageNet dataset:
