@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2bbb1821-45b1-4500-93d5-f4a4048beb9d" name="ybn@10.13.87.248:1443 password">
+        <fileTransfer rootFolder="/UsrFile/ybn/zx/mappingFromWin" accessType="SFTP" host="10.13.87.248" port="1443" sshConfigId="96263044-e2d7-4624-a6ae-618c23e584a0" sshConfig="ybn@10.13.87.248:1443 password" />
+      </webServer>
+    </option>
+  </component>
+</project>
